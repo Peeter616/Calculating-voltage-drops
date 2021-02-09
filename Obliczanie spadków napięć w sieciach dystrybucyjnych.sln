@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obliczanie spadków napięć w sieciach dystrybucyjnych", "Obliczanie spadków napięć w sieciach dystrybucyjnych\Obliczanie spadków napięć w sieciach dystrybucyjnych.csproj", "{21963CD9-63BF-421D-B845-35125981463C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21963CD9-63BF-421D-B845-35125981463C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21963CD9-63BF-421D-B845-35125981463C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21963CD9-63BF-421D-B845-35125981463C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21963CD9-63BF-421D-B845-35125981463C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76BE9C18-716B-43FD-9E29-33AFEF167D96}
+	EndGlobalSection
+EndGlobal
